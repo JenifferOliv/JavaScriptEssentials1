@@ -1,8 +1,8 @@
-let nome = "Max";
+let nome = "jeniffer";
 console.log(nome);
 
 let idade = "17";
 console.log(idade);
 
-let cidade = "Arcadia Bay";
+let cidade = "Sorocaba";
 console.log(cidade);

@@ -1,2 +1,2 @@
-let altura = 30;
+let altura = 60;
 console.log(altura + " metros");
