@@ -8,3 +8,4 @@ function countToFive() {
         counter++;
     }, 1000);
 }
+countToFive();

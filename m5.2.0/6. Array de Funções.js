@@ -1,7 +1,7 @@
 const operations = [
-    function(a, b) { return a + b; },
-    function(a, b) { return a - b; },
-    function(a, b) { return a * b; }
+    function (a, b) { return a + b; }, // soma
+    function (a, b) { return a - b; }, // subtração
+    function (a, b) { return a * b; }  // multiplicação
 ];
 
 for (let op of operations) {

@@ -1,5 +1,6 @@
 const user = {
     sayHi: function() {
-        return "Oi!";
+        console.log("Olá!");
     }
 };
+user.sayHi(); 

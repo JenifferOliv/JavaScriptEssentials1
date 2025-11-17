@@ -4,3 +4,4 @@ function validateNumber(n) {
     }
     throw new Error("O valor informado não é um número!");
 }
+console.log( validateNumber("bca") );

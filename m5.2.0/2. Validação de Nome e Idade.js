@@ -5,3 +5,5 @@ function validateUser(name, age) {
     }
     return false;
 }
+
+console.log(validateUser("camila", 20)); // true

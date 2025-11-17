@@ -1,5 +1,8 @@
 function factorial(n) {
-    if (n < 0) return null;
-    if (n === 0 || n === 1) return 1;
-    return n * factorial(n - 1);
+    if (n === 0) {
+        return 1; // caso base
+    }
+    return n * factorial(n - 1); // chamada recursiva
 }
+
+console.log(factorial(8)); 
